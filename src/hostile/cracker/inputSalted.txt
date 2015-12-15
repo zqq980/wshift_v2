@@ -1,0 +1,14 @@
+batman        19    2e6578c433810f794a05b17e22dec71d
+superman      8B    8a143436b6e6b38079daaae7ab285d4d
+aquaman       32    b15e6399b92f1ccb77b695f494572c73
+spiderman     00    c92d8c9b4ca87d2e19345ef185493f0b
+hulk          FC    dab8c48ee8200d3c99e114ec750c9cae
+wolverine     A0    ee472230ab33a26af063ce358beb1db8
+greenlantern  12    f4959a20676f2960de9dc757a87c5988
+ghostrider    73    32a7e8e8c766134e87aac4bd3ce4ce08
+flash         98    5555fb8dd11711d328ffe6fc03048cfc
+ironman       EC    91c19ed1c2722fccfb1004892032bb89
+thor          90    e3df0ab158e7dca026b8c3eee0a628cd
+silversurfer  13    c1089d841e6d337e7a156cc66b6f2433
+spaceghost    91    51c63e9b350be6695373052b8c30c8e3
+
